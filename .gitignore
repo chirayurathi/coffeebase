@@ -1,0 +1,38 @@
+# Django
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+media/
+static/
+backend/.env
+staticfiles/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+android/**/generated/
+android/app/src/main/res/values/strings.xml
+android/local.properties
+pubspec.lock
+*.lock
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+venv/
+env/
+node_modules/
